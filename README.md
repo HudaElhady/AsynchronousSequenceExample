@@ -10,6 +10,8 @@ The implementation consists of three main components:
 2. A custom `AsyncSequence` implementation (`TypingSequence`)
 3. An async iterator (`TypingSequenceIterator`) that handles the character-by-character animation
 
+![AsyncSequence](https://github.com/user-attachments/assets/7cb4b7d2-3c72-4576-a2ee-090ecf2fe4f5)
+
 ## Implementation Details
 
 ### ContentView
